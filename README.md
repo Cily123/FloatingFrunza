@@ -1,2 +1,2 @@
 # FloatingFrunza
-FloatingFrunza 3D game engine made in C++ and OpenGL
+FloatingFrunza 3D game engine made in C99 and raylib,using raygui for UI.
