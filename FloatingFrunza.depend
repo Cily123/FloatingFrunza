@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1776794223 source:d:\projects\rainengine dev\rain1\rain\rainengine\main.c
+	"rain.h"
+
+1776794278 source:d:\projects\rainengine dev\rain1\rain\rainengine\rendermain.c
+	"collision.h"
+	"rain.h"
+	<raylib/raygui.h>
+	"FileDialog.h"
+
+1775413451 d:\projects\rainengine dev\rain1\rain\rainengine\rain.h
+	<process.h>
+	<raylib/raylib.h>
+	<raylib/raymath.h>
+	<raylib/rlgl.h>
+	"rendermain.h"
+	"window.h"
+	"input.h"
+	"audio.h"
+	"camera.h"
+	"text.h"
+	"rendermain2d.h"
+	"colors.h"
+	"time.h"
+	"physics.h"
+	"otherstuff.h"
+	"Log.h"
+	"SpecialEffects.h"
+	<stdio.h>
+	<stdlib.h>
+
+1775644336 d:\projects\rainengine dev\rain1\rain\rainengine\rendermain.h
+	"collision.h"
+
+1771440715 d:\projects\rainengine dev\rain1\rain\rainengine\wn.h
+
+1775472759 d:\projects\rainengine dev\rain1\rain\rainengine\window.h
+
+1775472759 source:d:\projects\rainengine dev\rain1\rain\rainengine\window.c
+	"rain.h"
+	<raylib/raygui.h>
+	<string.h>
+
+1775917140 d:\projects\rainengine dev\rain1\rain\rainengine\input.h
+
+1775917140 source:d:\projects\rainengine dev\rain1\rain\rainengine\input.c
+	"rain.h"
+	<stdbool.h>
+
+1775483748 d:\projects\rainengine dev\rain1\rain\rainengine\audio.h
+
+1775483748 source:d:\projects\rainengine dev\rain1\rain\rainengine\audio.c
+	"rain.h"
+
+1772654888 d:\projects\rainengine dev\rain1\rain\rainengine\camera.h
+
+1772644986 source:d:\projects\rainengine dev\rain1\rain\rainengine\camera.c
+	"rain.h"
+
+1772356158 d:\projects\rainengine dev\rain1\rain\rainengine\text.h
+
+1774206298 source:d:\projects\rainengine dev\rain1\rain\rainengine\text.c
+	"rain.h"
+	<raylib/raygui.h>
+
+1772645062 d:\projects\rainengine dev\rain1\rain\rainengine\rendermain2d.h
+
+1772367264 d:\projects\rainengine dev\rain1\rain\rainengine\colors.h
+
+1774272404 source:d:\projects\rainengine dev\rain1\rain\rainengine\rendermain2d.c
+	"rain.h"
+
+1775645284 d:\projects\rainengine dev\rain1\rain\rainengine\collision.h
+	<stdbool.h>
+	<raylib/raylib.h>
+
+1775645292 source:d:\projects\rainengine dev\rain1\rain\rainengine\collision.c
+	"rain.h"
+	"collision.h"
+	"rendermain.h"
+	<math.h>
+
+1772478383 d:\projects\rainengine dev\rain1\rain\rainengine\nuklear.h
+	"nuklear.h"
+	<stdarg.h>
+	<sal.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+	<stdlib.h>
+	<assert.h>
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1772475212 d:\projects\rainengine dev\rain1\rain\rainengine\raylib-nuklear.h
+	"raylib/raylib.h"
+	"nuklear.h"
+	<stddef.h>
+	<math.h>
+	"nuklear.h"
+	"raylib-nuklear-font.h"
+
+1772472748 d:\projects\rainengine dev\rain1\rain\rainengine\raylib-nuklear-font.h
+
+1773482787 source:d:\projects\rainengine dev\rain1\rain\rainengine\editormain,c.c
+	"rain.h"
+	"FileDialog.h"
+	<raylib/raygui.h>
+
+1772645143 d:\projects\rainengine dev\rain1\rain\rainengine\time.h
+
+1772642216 d:\projects\rainengine dev\rain1\rain\rainengine\physics.h
+
+1775583881 source:d:\projects\rainengine dev\rain1\rain\rainengine\time.c
+	"rain.h"
+
+1775560807 source:d:\projects\rainengine dev\rain1\rain\rainengine\physics.c
+	"rain.h"
+
+1772734168 d:\projects\rainengine dev\rain1\rain\rainengine\otherstuff.h
+
+1775654208 source:d:\projects\rainengine dev\rain1\rain\rainengine\otherstuff.c
+	"rain.h"
+
+1773254106 d:\projects\rainengine dev\rain1\rain\rainengine\raygui.h
+	<raylib/raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1773334065 d:\projects\rainengine dev\rain1\rain\rainengine\editormain.h
+
+1775647778 source:d:\projects\rainengine dev\rain1\rain\rainengine\filedialog.c
+	<windows.h>
+	<commdlg.h>
+	"FileDialog.h"
+
+1775647661 d:\projects\rainengine dev\rain1\rain\rainengine\filedialog.h
+
+1773428447 source:d:\projects\rainengine dev\rain1\rain\rainengine\windowicon.c
+	"rain.h"
+
+1775300382 d:\projects\rainengine dev\rain1\rain\rainengine\log.h
+
+1775300174 source:d:\projects\rainengine dev\rain1\rain\rainengine\log.c
+	<stdio.h>
+
+1775582985 d:\projects\rainengine dev\rain1\rain\rainengine\specialeffects.h
+
+1775582985 source:d:\projects\rainengine dev\rain1\rain\rainengine\specialeffects.c
+	"rain.h"
+
